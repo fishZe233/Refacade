@@ -1,0 +1,27 @@
+torch>=2.4.0
+torchvision>=0.19.0
+opencv-python>=4.11.0.86
+diffusers>=0.35.2
+transformers>=4.49.0
+tokenizers>=0.20.3
+accelerate>=1.1.1
+gradio>=5.0.0
+numpy==1.24.4
+huggingface-hub==0.34.4
+moviepy==1.0.3
+tqdm
+imageio
+easydict
+ftfy
+dashscope
+imageio-ffmpeg
+https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.4.post1/flash_attn-2.7.4.post1+cu12torch2.4cxx11abiTRUE-cp310-cp310-linux_x86_64.whl
+decord
+einops
+scikit-image
+scikit-learn
+pycocotools
+timm
+hydra-core
+pytest
+# wan@git+https://github.com/Wan-Video/Wan2.1
