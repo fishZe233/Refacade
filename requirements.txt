@@ -15,7 +15,7 @@ easydict
 ftfy
 dashscope
 imageio-ffmpeg
-https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.4.post1/flash_attn-2.7.4.post1+cu12torch2.4cxx11abiTRUE-cp310-cp310-linux_x86_64.whl
+flash_attn
 decord
 einops
 scikit-image
@@ -24,4 +24,5 @@ pycocotools
 timm
 hydra-core
 pytest
+
 # wan@git+https://github.com/Wan-Video/Wan2.1
