@@ -53,7 +53,7 @@ pip install wan@git+https://github.com/Wan-Video/Wan2.1
 
 
 
-You can use this gradio demo to remove objects. Note that you don't need to compile the sam2.
+You can use this gradio demo to retexture objects. Note that you don't need to compile the sam2.
 ```bash
 python app.py
 ```
@@ -91,7 +91,7 @@ Refacade
 ```bash
 python test_pipe.py \
   --ref_img xx.png \
-  --ref_mask xx-mask.png \
+  --ref_mask xx_mask.png \
   --video_path xx.mp4 \
   --mask_path xx_mask.mp4 \
   --output_dir ./outputs
