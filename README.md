@@ -27,9 +27,7 @@
 </p>
 
 ---
-<video src="https://github.com/fishZe233/Refacade/raw/refs/heads/main/assets/Refacade.mp4" 
-       width=80%>
-</video>
+https://github.com/user-attachments/assets/e1e53908-2c78-4433-947d-11d124a4dd32
 
 ## 🚀 Overview
 
