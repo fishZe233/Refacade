@@ -26,7 +26,6 @@
   <a href="https://refacade.github.io/"><img alt="Demo Page" src="https://img.shields.io/badge/Website-Demo%20Page-yellow"></a>
 </p>
 
----
 https://github.com/user-attachments/assets/e1e53908-2c78-4433-947d-11d124a4dd32
 
 ## 🚀 Overview
