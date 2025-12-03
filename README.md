@@ -27,6 +27,7 @@
 </p>
 
 ---
+https://github.com/fishZe233/Refacade/blob/main/assets/Refacade.mp4
 
 ## 🚀 Overview
 
@@ -96,10 +97,6 @@ python test_pipe.py \
   --mask_path xx_mask.mp4 \
   --output_dir ./outputs
 ```
-## ✨ Features: 
 
-<p align="center">
-  <video src="assets/Refacade.mp4" controls width=80%>
-<p>
 ---
 
