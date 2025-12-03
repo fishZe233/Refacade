@@ -33,7 +33,7 @@
 **Refaçade** is a unified image–video retexturing model built upon the Wan2.1-based VACE framework. It edits the surface material of specified objects in a video using user-provided reference textures, while preserving the original geometry and background. We use **Jigsaw Permutation** to decouple structural information in the reference image and a **Texture Remover** to disentangle the original object’s appearance. This functionality enables users to explore diverse possibilities effectively.
 
 <p align="center">
-  <img src="examples/pipe.png" alt="Refaçade illustration" width="70%">
+  <img src="examples/pipe.png" alt="Refaçade illustration" width="90%">
 </p>
 
 ---
@@ -71,7 +71,6 @@ We recommend to organize local directories as:
 Refacade
 ├── ...
 ├── examples
-│   └── ...
 ├── models
 │   ├── refacade
 │   │   └── ...
