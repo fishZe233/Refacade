@@ -51,9 +51,7 @@ pip install wan@git+https://github.com/Wan-Video/Wan2.1
 
 ## 🏃‍♂️ Gradio Demo
 
-
-
-You can use this gradio demo to retexture objects. Note that you don't need to compile the sam2.
+You can use this gradio demo to retexture objects. Note that you don't need to compile the SAM2.
 ```bash
 python app.py
 ```
@@ -90,10 +88,10 @@ Refacade
 
 ```bash
 python test_pipe.py \
-  --ref_img xx.png \
-  --ref_mask xx_mask.png \
-  --video_path xx.mp4 \
-  --mask_path xx_mask.mp4 \
+  --ref_img    ./assets/single_example/1.png \
+  --ref_mask   ./assets/single_example/mask.png \
+  --video_path ./assets/single_example/1.mp4 \
+  --mask_path  ./assets/single_example/mask.mp4 \
   --output_dir ./outputs
 ```
 
