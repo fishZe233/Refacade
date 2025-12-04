@@ -60,8 +60,13 @@ python app.py
 
 ## 📂 Download
 
+First, download our checkpoints:
 ```shell
 huggingface-cli download --resume-download fishze/Refacade --local-dir models
+```
+Next, download SAM2 [sam2_hiera_large.pt](https://huggingface.co/facebook/sam2-hiera-large) and place it at:
+```shell
+sam2/SAM2-Video-Predictor/checkpoints/
 ```
 
 We recommend to organize local directories as:
