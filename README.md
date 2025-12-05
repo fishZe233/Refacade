@@ -22,6 +22,7 @@
 <p align="center">
   <a href="https://huggingface.co/fishze/Refacade"><img alt="Huggingface Model" src="https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Model-brightgreen"></a>
   <a href="https://github.com/fishZe233/Refacade"><img alt="Github" src="https://img.shields.io/badge/Refaçade-github-black"></a>
+  <a href="https://arxiv.org/abs/2512.04534"><img alt="arXiv" src="https://img.shields.io/badge/Refaçade-arXiv-b31b1b"></a>
   <a href="https://huggingface.co/spaces/Ryan-PR/Refacade"><img alt="Huggingface Space" src="https://img.shields.io/badge/%F0%9F%A4%97%20Huggingface-Space-1e90ff"></a>
   <a href="https://refacade.github.io/"><img alt="Demo Page" src="https://img.shields.io/badge/Website-Demo%20Page-yellow"></a>
 </p>
